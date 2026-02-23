@@ -1,6 +1,6 @@
 # FORMA — Privacy-First Image & PDF Tools
 
-**Team Name:** forma  
+
 **Product Name:** FORMA  
 **One-line description:** Transform images and PDFs entirely in your browser — zero uploads, zero tracking, zero compromise.
 
