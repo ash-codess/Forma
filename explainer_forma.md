@@ -10,8 +10,8 @@
 
 ## Live Deployment URL
 
-> _Add your Vercel deployment URL here after deploying_  
-> Example: `https://forma-tools.vercel.app`
+
+> https://moonlit-smakager-2f8c6f.netlify.app/
 
 
 ---
